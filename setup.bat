@@ -2,13 +2,13 @@
 
 REM Get git usernames and repository
 echo Please Enter GitHub username :
-set /p username=
+set /p username=Samruddhi-15-cyber
 
 echo Please enter GitHub Email :
-set /p email=
+set /p email=samruddhiutpat@gmail.com
 
 echo Please enter github repository link :
-set /p url=
+set /p url=https://github.com/Samruddhi-15-cyber
 
 REM git global user.name
 git config --global user.name %username%
